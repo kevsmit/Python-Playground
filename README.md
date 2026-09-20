@@ -2,4 +2,4 @@
 
 ## explanation
 
-it checks your computer's internet connection and tells you what is working and what is not.
+it subtracts your break time from the hours you worked.
