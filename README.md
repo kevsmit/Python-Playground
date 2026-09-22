@@ -2,4 +2,4 @@
 
 ## explanation
 
-it subtracts your break time from the hours you worked.
+it adds up the prices of your groceries.
