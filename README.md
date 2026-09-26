@@ -2,6 +2,8 @@
 
 ## explanation
 
+`event_countdown.py` tells you how many days until a date you choose.
+
 `paint_calculator.py` estimates how much paint you need for a wall and the number of coats.
 
 `savings_goal.py` tells you how many months it will take to reach your savings goal.
