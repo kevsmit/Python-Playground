@@ -2,6 +2,8 @@
 
 ## explanation
 
+`sale_price.py` tells you what an item costs after a discount and sales tax.
+
 `shift_end_time.py` tells you when your shift ends based on your start time and hours worked.
 
 `event_countdown.py` tells you how many days until a date you choose.
