@@ -2,6 +2,8 @@
 
 ## explanation
 
+`file_type_counter.py` counts files by extension in a folder you choose.
+
 `unit_price_compare.py` compares two items by price per unit so you can see which is cheaper.
 
 `sale_price.py` tells you what an item costs after a discount and sales tax.
