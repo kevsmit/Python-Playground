@@ -2,6 +2,8 @@
 
 ## explanation
 
+`folder_size.py` counts the files in a folder and shows how much space they use.
+
 `file_type_counter.py` counts files by extension in a folder you choose.
 
 `unit_price_compare.py` compares two items by price per unit so you can see which is cheaper.
