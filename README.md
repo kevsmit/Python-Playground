@@ -2,6 +2,8 @@
 
 ## explanation
 
+`text_file_counter.py` counts words, characters, and lines in a text file.
+
 `folder_size.py` counts the files in a folder and shows how much space they use.
 
 `file_type_counter.py` counts files by extension in a folder you choose.
