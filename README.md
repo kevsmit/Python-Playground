@@ -2,6 +2,8 @@
 
 ## explanation
 
+`recipe_scaler.py` changes ingredient amounts for a different number of servings.
+
 `text_file_counter.py` counts words, characters, and lines in a text file.
 
 `folder_size.py` counts the files in a folder and shows how much space they use.
