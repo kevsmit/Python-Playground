@@ -2,6 +2,8 @@
 
 ## explanation
 
+`subscription_total.py` adds your monthly and yearly subscriptions and shows what they cost per month and year.
+
 `largest_files.py` shows the five largest files in a folder and its subfolders.
 
 `recipe_scaler.py` changes ingredient amounts for a different number of servings.
