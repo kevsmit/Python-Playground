@@ -2,6 +2,8 @@
 
 ## explanation
 
+`largest_files.py` shows the five largest files in a folder and its subfolders.
+
 `recipe_scaler.py` changes ingredient amounts for a different number of servings.
 
 `text_file_counter.py` counts words, characters, and lines in a text file.
