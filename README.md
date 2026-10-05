@@ -2,6 +2,8 @@
 
 ## explanation
 
+`unit_converter.py` converts miles, kilometers, pounds, kilograms, feet, and meters.
+
 `subscription_total.py` adds your monthly and yearly subscriptions and shows what they cost per month and year.
 
 `largest_files.py` shows the five largest files in a folder and its subfolders.
