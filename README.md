@@ -2,6 +2,8 @@
 
 ## explanation
 
+`bike_rental_compare.py` compares a whole-hour bike rental price with a per-minute price.
+
 `unit_converter.py` converts miles, kilometers, pounds, kilograms, feet, and meters.
 
 `subscription_total.py` adds your monthly and yearly subscriptions and shows what they cost per month and year.
