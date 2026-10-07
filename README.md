@@ -2,6 +2,8 @@
 
 ## explanation
 
+`find_files.py` searches a folder and its subfolders for filenames containing a word you enter.
+
 `bike_rental_compare.py` compares a whole-hour bike rental price with a per-minute price.
 
 `unit_converter.py` converts miles, kilometers, pounds, kilograms, feet, and meters.
