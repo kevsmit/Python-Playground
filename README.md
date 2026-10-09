@@ -2,6 +2,8 @@
 
 ## explanation
 
+`percent_change.py` tells you how much a number increased or decreased, including the percentage.
+
 `find_files.py` searches a folder and its subfolders for filenames containing a word you enter.
 
 `bike_rental_compare.py` compares a whole-hour bike rental price with a per-minute price.
