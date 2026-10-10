@@ -2,6 +2,8 @@
 
 ## explanation
 
+`download_time.py` estimates how long a file download will take from its size and your internet speed.
+
 `percent_change.py` tells you how much a number increased or decreased, including the percentage.
 
 `find_files.py` searches a folder and its subfolders for filenames containing a word you enter.
