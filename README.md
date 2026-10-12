@@ -2,6 +2,8 @@
 
 ## explanation
 
+`shopping_list.py` makes an alphabetized shopping list and removes repeated items.
+
 `download_time.py` estimates how long a file download will take from its size and your internet speed.
 
 `percent_change.py` tells you how much a number increased or decreased, including the percentage.
