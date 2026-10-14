@@ -2,6 +2,8 @@
 
 ## explanation
 
+`csv_column_total.py` adds the numbers in a column of a CSV file.
+
 `shopping_list.py` makes an alphabetized shopping list and removes repeated items.
 
 `download_time.py` estimates how long a file download will take from its size and your internet speed.
