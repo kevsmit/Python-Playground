@@ -3,8 +3,7 @@ import hashlib
 
 folder = Path(input("Folder to check: ").strip()).expanduser()
 if not folder.is_dir():
-    print("That folder does not exist.")
-    raise SystemExit
+    raise SystemExit("That folder does not exist.")
 
 by_size = {}
 for file in folder.rglob("*"):
@@ -29,9 +28,6 @@ for files in by_size.values():
             print(f"Could not read: {file}")
 
 groups = [files for files in by_hash.values() if len(files) > 1]
-if not groups:
-    print("No duplicate files found.")
-for number, files in enumerate(groups, 1):
-    print(f"\nDuplicate group {number}:")
-    for file in files:
-        print(file)
+print(f"Found {len(groups)} duplicate groups.")
+for files in groups:
+    print("\n" + "\n".join(map(str, files)))
