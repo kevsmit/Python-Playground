@@ -2,6 +2,8 @@
 
 ## explanation
 
+`duplicate_files.py` finds files with the same contents in a folder and its subfolders.
+
 `csv_row_search.py` finds rows in a CSV file containing a word or phrase.
 
 `csv_column_total.py` adds the numbers in a column of a CSV file.
