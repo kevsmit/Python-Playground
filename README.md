@@ -2,6 +2,8 @@
 
 ## explanation
 
+`old_files.py` lists files in a folder that have not been changed in a number of days.
+
 `duplicate_files.py` finds files with the same contents in a folder and its subfolders.
 
 `csv_row_search.py` finds rows in a CSV file containing a word or phrase.
