@@ -2,6 +2,8 @@
 
 ## explanation
 
+`weekday_counter.py` counts weekdays between two dates, including both dates but not excluding holidays.
+
 `old_files.py` lists files in a folder that have not been changed in a number of days.
 
 `duplicate_files.py` finds files with the same contents in a folder and its subfolders.
