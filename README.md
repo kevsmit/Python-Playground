@@ -2,6 +2,8 @@
 
 ## explanation
 
+`subnet_info.py` shows the network, subnet mask, and usable addresses for an IPv4 subnet.
+
 `weekday_counter.py` counts weekdays between two dates, including both dates but not excluding holidays.
 
 `old_files.py` lists files in a folder that have not been changed in a number of days.
