@@ -2,6 +2,8 @@
 
 ## explanation
 
+`json_checker.py` checks whether a JSON file is valid and points out where a formatting error occurs.
+
 `subnet_info.py` shows the network, subnet mask, and usable addresses for an IPv4 subnet.
 
 `weekday_counter.py` counts weekdays between two dates, including both dates but not excluding holidays.
