@@ -2,6 +2,8 @@
 
 ## explanation
 
+`file_info.py` shows a file's name, extension, and size in bytes and an easier-to-read unit.
+
 `json_checker.py` checks whether a JSON file is valid and points out where a formatting error occurs.
 
 `subnet_info.py` shows the network, subnet mask, and usable addresses for an IPv4 subnet.
