@@ -2,6 +2,8 @@
 
 ## explanation
 
+`loan_payment.py` estimates a loan's monthly payment, total cost, and total interest.
+
 `file_info.py` shows a file's name, extension, and size in bytes and an easier-to-read unit.
 
 `json_checker.py` checks whether a JSON file is valid and points out where a formatting error occurs.
