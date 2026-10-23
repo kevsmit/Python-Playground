@@ -2,6 +2,8 @@
 
 ## explanation
 
+`electricity_cost.py` estimates how much a device costs to run each day, month, and year.
+
 `loan_payment.py` estimates a loan's monthly payment, total cost, and total interest.
 
 `file_info.py` shows a file's name, extension, and size in bytes and an easier-to-read unit.
