@@ -2,6 +2,8 @@
 
 ## explanation
 
+`file_hash.py` creates a SHA-256 fingerprint you can use to check whether a file has changed.
+
 `electricity_cost.py` estimates how much a device costs to run each day, month, and year.
 
 `loan_payment.py` estimates a loan's monthly payment, total cost, and total interest.
