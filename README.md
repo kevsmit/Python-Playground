@@ -2,6 +2,8 @@
 
 ## explanation
 
+`break_even.py` calculates how many items you need to sell to cover your costs.
+
 `file_hash.py` creates a SHA-256 fingerprint you can use to check whether a file has changed.
 
 `electricity_cost.py` estimates how much a device costs to run each day, month, and year.
