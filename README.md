@@ -2,6 +2,8 @@
 
 ## explanation
 
+`meeting_cost.py` estimates a meeting's cost based on its length, attendance, and average hourly pay.
+
 `break_even.py` calculates how many items you need to sell to cover your costs.
 
 `file_hash.py` creates a SHA-256 fingerprint you can use to check whether a file has changed.
