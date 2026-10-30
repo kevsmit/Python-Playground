@@ -2,6 +2,8 @@
 
 ## explanation
 
+`disk_space.py` shows the total, used, and free space on the drive containing a folder.
+
 `timestamp_converter.py` converts between Unix timestamps and UTC dates.
 
 `meeting_cost.py` estimates a meeting's cost based on its length, attendance, and average hourly pay.
