@@ -2,6 +2,8 @@
 
 ## explanation
 
+`temperature_converter.py` converts temperatures between Celsius and Fahrenheit.
+
 `disk_space.py` shows the total, used, and free space on the drive containing a folder.
 
 `timestamp_converter.py` converts between Unix timestamps and UTC dates.
